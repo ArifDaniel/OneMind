@@ -1,2 +1,2 @@
-1et message: string = 'send help';
+let message: string = 'send help';
 console.log(message);
