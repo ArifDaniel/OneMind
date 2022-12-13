@@ -5,6 +5,7 @@
   
   "A HTML build is coming soon.."
   - Ghost
+
   "Maybe not really text game because we are adding sprites"
   - Arif Daniel
   
