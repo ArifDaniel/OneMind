@@ -6,7 +6,7 @@
   "A HTML build is coming soon.."
   - Ghost
 
-  "Maybe not really text game because we are adding sprites"
+  "Maybe not really text game because we are adding sprites or pixel images in particular"
   - Arif Daniel
   
 ## Where can I play OneMind?
