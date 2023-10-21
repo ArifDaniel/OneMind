@@ -5,10 +5,5 @@
 
 "Maybe not really text game because we are adding sprites or pixel images in particular"
   - Arif Daniel
-  
-## Where can I play OneMind?
-  https://arifdaniel.github.io/OneMind
 
-## When can I play this game 
-  You can play now
-  Also it's still in development
+# This game is discontinued for private reason
